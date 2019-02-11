@@ -4,7 +4,7 @@
   "description": "A tool which will create a list of email addresses found in a IMAP folder.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "list": "node index.js"
   },
   "repository": {
     "type": "git",
