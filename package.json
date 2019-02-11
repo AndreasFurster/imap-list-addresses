@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AndreasFurster/imap-list-addresses#readme",
   "dependencies": {
+    "dotenv": "^6.2.0",
     "imap": "^0.8.19"
   }
 }
