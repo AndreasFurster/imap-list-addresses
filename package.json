@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AndreasFurster/imap-list-addresses/issues"
   },
-  "homepage": "https://github.com/AndreasFurster/imap-list-addresses#readme"
+  "homepage": "https://github.com/AndreasFurster/imap-list-addresses#readme",
+  "dependencies": {
+    "imap": "^0.8.19"
+  }
 }
