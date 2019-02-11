@@ -1,5 +1,5 @@
 # Imap email addresses listing tool
-A tool which will create a list of email addresses found in a IMAP folder. 
+A tool which will create a list of email addresses found in a IMAP box(folder). 
 
 ## Use cases
 - Get registrations/subscriptions
@@ -12,5 +12,5 @@ A tool which will create a list of email addresses found in a IMAP folder.
   - Password
   - Port
   - TLS
-- Imap folder
+- Imap box (folder)
 - Search in emailcontents (default: `false`)
